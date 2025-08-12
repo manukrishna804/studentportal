@@ -14,7 +14,7 @@ A comprehensive web-based student portal management system built with PHP, MySQL
 *Faculty Gateway – Add student attendance, marks, reviews, and more.*
 
 ### 👨‍🎓 **Student Portal**
-![Student Portal](Studentimages/student_dashboard.png)
+![Student Portal](images/student_dashboard.png)
 *Student Gateway – View marks, attendance, and register for exams.*
 
 ### 📚 **Course Management**
